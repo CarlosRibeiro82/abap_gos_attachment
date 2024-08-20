@@ -1,2 +1,3 @@
-# abap_gos_attachment
-Use the GOS Attachment Functionality on SAP ABAP Z Programs
+# Implementation of GOS Attachment on custom program
+
+This is a ABAPGIT ready repository so you can implement in your system and adapt to your custom needs
